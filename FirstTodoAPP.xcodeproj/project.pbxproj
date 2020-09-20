@@ -15,6 +15,7 @@
 		86A98E6525173A0600E6CBD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86A98E6325173A0600E6CBD7 /* LaunchScreen.storyboard */; };
 		86A98E7025173A0600E6CBD7 /* FirstTodoAPPTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A98E6F25173A0600E6CBD7 /* FirstTodoAPPTests.swift */; };
 		86A98E7B25173A0600E6CBD7 /* FirstTodoAPPUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A98E7A25173A0600E6CBD7 /* FirstTodoAPPUITests.swift */; };
+		86A98E8C25174AA900E6CBD7 /* AddControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A98E8B25174AA900E6CBD7 /* AddControllerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		86A98E7625173A0600E6CBD7 /* FirstTodoAPPUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstTodoAPPUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		86A98E7A25173A0600E6CBD7 /* FirstTodoAPPUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstTodoAPPUITests.swift; sourceTree = "<group>"; };
 		86A98E7C25173A0600E6CBD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86A98E8B25174AA900E6CBD7 /* AddControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddControllerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				86A98E6125173A0600E6CBD7 /* Assets.xcassets */,
 				86A98E6325173A0600E6CBD7 /* LaunchScreen.storyboard */,
 				86A98E6625173A0600E6CBD7 /* Info.plist */,
+				86A98E8B25174AA900E6CBD7 /* AddControllerViewController.swift */,
 			);
 			path = FirstTodoAPP;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86A98E8C25174AA900E6CBD7 /* AddControllerViewController.swift in Sources */,
 				86A98E5D25173A0500E6CBD7 /* ViewController.swift in Sources */,
 				86A98E5925173A0500E6CBD7 /* AppDelegate.swift in Sources */,
 				86A98E5B25173A0500E6CBD7 /* SceneDelegate.swift in Sources */,
